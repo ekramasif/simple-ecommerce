@@ -1,0 +1,80 @@
+.bg-light {
+    background-color: #fff!important;
+}
+.navbar-brand img {
+    margin-left: 19px;
+}
+.navbar-brand {
+    margin-right: 23rem;
+}
+.navbar-nav .nav-link {
+    padding-left: 28px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+}
+
+
+.carousel-indicators li {
+    width: 30px;
+    height: 7px;
+    border-radius: 30px;
+}
+
+.carousel-indicators li {
+    background-color: #6d6a6a;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 1%;
+}
+
+button:focus {
+    outline: 0;
+}
+.buy-now-button-slider {
+    background-image: linear-gradient(to bottom, #ff4343 0%, rgb(160, 0, 0) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.btn-img-slider {
+    width: 15px;
+    position: relative;
+    left: -5%;
+    z-index: 1;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #ff4343 0%, rgb(160, 0, 0) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 99px;
+}
+.btn-img {
+    width: 15px;
+    position: relative;
+    left: -8%;
+    z-index: 1;
+}
+.buy-now-button-contact {
+    background-image: linear-gradient(to bottom, #ff4343 0%, rgb(160, 0, 0) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 342px;
+}
+.btn-img-contact {
+    width: 15px;
+    position: relative;
+    left: -3.5%;
+    z-index: 1;
+}
